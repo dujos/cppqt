@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="QT">
+	    <file>Application/images/bgmenu.jpg</file>
+		<file>Application/images/cursor_wand.png</file>
+		<file>Application/images/logo.png</file>
+        <file>Application/images/target2.png</file>
+        <file>Application/images/block1.png</file>
+        <file>Application/images/block2.png</file>
+        <file>Application/images/concrete1.png</file>
+        <file>Application/images/target1.png</file>
+        <file>Application/images/item6.png</file>
+        <file>Application/images/item1.png</file>
+        <file>Application/images/item2.png</file>
+        <file>Application/images/item3.png</file>
+        <file>Application/images/item4.png</file>
+        <file>Application/images/item5.png</file>
+        <file>Application/images/clock.png</file>
+        <file>Application/images/score.png</file>
+		<file>Application/images/icons/add_user.png</file>
+        <file>Application/images/icons/assistant.png</file>
+        <file>Application/images/icons/back.png</file>
+        <file>Application/images/icons/button_cancel.png</file>
+        <file>Application/images/icons/button_ok.png</file>
+        <file>Application/images/icons/configure.png</file>
+        <file>Application/images/icons/display.png</file>
+        <file>Application/images/icons/finish.png</file>
+        <file>Application/images/icons/forward.png</file>
+        <file>Application/images/icons/games.png</file>
+        <file>Application/images/icons/lamp.png</file>
+        <file>Application/images/icons/language.png</file>
+        <file>Application/images/icons/mycomputer.png</file>
+        <file>Application/images/icons/pack.png</file>
+        <file>Application/images/icons/redo.png</file>
+        <file>Application/images/icons/reload.png</file>
+        <file>Application/images/icons/remove.png</file>
+        <file>Application/images/icons/sound.png</file>
+        <file>Application/images/icons/speech.png</file>
+        <file>Application/images/icons/users.png</file>
+        <file>Application/images/icons/users2.png</file>
+    </qresource>
+</RCC>
